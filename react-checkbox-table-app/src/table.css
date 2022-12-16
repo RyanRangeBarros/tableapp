@@ -1,0 +1,16 @@
+.container-table{
+    display:inline-flex;
+}
+
+.container-texto{
+    margin-left: 15px;
+}
+
+.butoes{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+th acao{
+    padding-left: 4%;
+}
